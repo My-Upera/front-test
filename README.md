@@ -6,12 +6,12 @@
 
 
 
-Develop a Data Table that displays data fetched from a Mock API. The table should incorporate Search, Sort, and Pagination functionalities. It is crucial to implement the solution using Typescript and ensure strong typing throughout the implementation. Additionally, striving for pixel-perfect design alignment would be greatly appreciated.
+Develop a Data Table that displays data fetched from a Mock API. The table should incorporate Search, Sort, and Pagination functionalities. It is crucial to implement the solution using Typescript and ensure strong typing throughout the implementation. Additionally, A pixel-perfect alignment of your implementation is essential.
 
 
 Figma Design: https://www.figma.com/file/IihiNUSeGYVR4SrrPn7Ovw/Table-UI-Design-Template-(Community)?type=design&node-id=7-618&mode=dev
 
-Mock API: https://mocki.io/v1/3361b3fd-79ad-45c2-aba4-3ee66cc9230c
+Mock API endpoint: https://mocki.io/v1/3361b3fd-79ad-45c2-aba4-3ee66cc9230c
 
 ---
 
