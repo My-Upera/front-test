@@ -6,8 +6,7 @@
 
 
 
-Develop a Data Table to show Data that has been fetched from Mock API. The table must have Search, Sort, and Pagination features. It's essential to use Typescript and have strong Type. It would be a great pleasure if you develop Pixel Perfectly.
-
+Develop a Data Table that displays data fetched from a Mock API. The table should incorporate Search, Sort, and Pagination functionalities. It is crucial to implement the solution using Typescript and ensure strong typing throughout the implementation. Additionally, striving for pixel-perfect design alignment would be greatly appreciated.
 
 
 Figma Design: https://www.figma.com/file/IihiNUSeGYVR4SrrPn7Ovw/Table-UI-Design-Template-(Community)?type=design&node-id=7-618&mode=dev
@@ -44,11 +43,11 @@ Mock API: https://mocki.io/v1/3361b3fd-79ad-45c2-aba4-3ee66cc9230c
 
 
 
-### 4. Pagination and Sort:
+### 4. Search, Pagination, and Sort in Data:
 
 
 
-- Mock API dose not suport pagination and sort. use React-Table features to implement them.
+- Mock API does not support search, pagination, and sort. use React-Table to implement those features.
 
 
 
@@ -74,7 +73,7 @@ Mock API: https://mocki.io/v1/3361b3fd-79ad-45c2-aba4-3ee66cc9230c
 
 
 
-### 4. Add per-page functionality
+### 4. Add per-page functionality for your pagination.
 
 
 
