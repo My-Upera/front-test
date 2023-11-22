@@ -73,10 +73,6 @@ Mock API endpoint: https://mocki.io/v1/3361b3fd-79ad-45c2-aba4-3ee66cc9230c
 
 
 
-### 4. Add per-page functionality for your pagination.
-
-
-
 ### 4. Unit Test
 
 
